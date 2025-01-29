@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Projet_Perso\\LearnWebApiDotnet\\ApiApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437466E3-72C7-4AE6-B864-EAA71B7AC222}|ApiApplication.csproj|y:\\projet_perso\\learnwebapidotnet\\apiapplication\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437466E3-72C7-4AE6-B864-EAA71B7AC222}|ApiApplication.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437466E3-72C7-4AE6-B864-EAA71B7AC222}|ApiApplication.csproj|y:\\projet_perso\\learnwebapidotnet\\apiapplication\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437466E3-72C7-4AE6-B864-EAA71B7AC222}|ApiApplication.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437466E3-72C7-4AE6-B864-EAA71B7AC222}|ApiApplication.csproj|y:\\projet_perso\\learnwebapidotnet\\apiapplication\\models\\dtos\\insert_client_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437466E3-72C7-4AE6-B864-EAA71B7AC222}|ApiApplication.csproj|solutionrelative:models\\dtos\\insert_client_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insert_Client_Dto.cs",
+              "DocumentMoniker": "Y:\\Projet_Perso\\LearnWebApiDotnet\\ApiApplication\\Models\\Dtos\\Insert_Client_Dto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Insert_Client_Dto.cs",
+              "ToolTip": "Y:\\Projet_Perso\\LearnWebApiDotnet\\ApiApplication\\Models\\Dtos\\Insert_Client_Dto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Insert_Client_Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:41:53.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "Y:\\Projet_Perso\\LearnWebApiDotnet\\ApiApplication\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "Y:\\Projet_Perso\\LearnWebApiDotnet\\ApiApplication\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:44:38.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "Y:\\Projet_Perso\\LearnWebApiDotnet\\ApiApplication\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "Y:\\Projet_Perso\\LearnWebApiDotnet\\ApiApplication\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:25:54.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
