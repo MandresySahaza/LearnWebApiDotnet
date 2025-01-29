@@ -282,3 +282,4 @@ Y:\Projet_Perso\LearnWebApiDotnet\ApiApplication\bin\Debug\net8.0\runtimes\win\l
 Y:\Projet_Perso\LearnWebApiDotnet\ApiApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 Y:\Projet_Perso\LearnWebApiDotnet\ApiApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 Y:\Projet_Perso\LearnWebApiDotnet\ApiApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+Y:\Projet_Perso\LearnWebApiDotnet\ApiApplication\obj\Debug\net8.0\ApiApplication.sourcelink.json
